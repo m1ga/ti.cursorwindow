@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: ti.cursorwindow
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2025 by Your Company
+
+# these should not be edited
+name: ti.cursorwindow
+moduleid: ti.cursorwindow
+guid: 302796c8-92f6-403e-9883-e2106240722e
+platform: android
+minsdk: 12.5.1.GA

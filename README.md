@@ -1,6 +1,6 @@
 ## ti.cursorwindow
 
-This module allows you to set a higher Cursor size (default is 2MB) for e.g. SQLite access.
+This module allows you to set a higher CursorWindow size (default is 2MB) for e.g. SQLite access.
 
 If you run into errors like:
 ```
